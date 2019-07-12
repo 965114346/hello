@@ -22,6 +22,6 @@ public class HelloApplication extends SpringBootServletInitializer {
 
     @GetMapping("/say")
     public String say() {
-        return "Hello! Springboot war!";
+        return "Hello! Springboot war??????????";
     }
 }
